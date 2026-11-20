@@ -558,13 +558,3 @@ For a problem after installation, run the command below and paste its output int
 fcc-doctor
 ```
 
-- [Report bugs or request features](https://github.com/Alishahryar1/free-claude-code/issues)
-- Contributing guide: `CONTRIBUTING.md`
-
-## Maintainers
-
-See `MAINTAINERS.md` for the project's maintainers and their areas of responsibility.
-
-## License
-
-GNU Affero General Public License version 3 only (`AGPL-3.0-only`). See `LICENSE` for details.
